@@ -1,0 +1,24 @@
+.game {
+    width: 255px;
+    text-align: center;
+    color: #fff;
+    margin: auto;
+    font-weight: 500;
+}
+.gameTitle {
+    background-color: #09c;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span {
+    color: brown;
+}
+.squre{
+    width: 80px;
+    height: 80px;
+    background: #09c;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+    cursor: pointer;
+}
